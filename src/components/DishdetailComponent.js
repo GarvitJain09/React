@@ -16,7 +16,7 @@ import { Link } from 'react-router-dom';
 import CommentForm from './CommentForm';
 
 
-//let isModelOpen = false
+let isModelOpen = false
 let istoggleNav = true
 function CommentFormOpen() {
     isModelOpen = !isModelOpen

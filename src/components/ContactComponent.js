@@ -24,7 +24,7 @@ class Contact extends Component {
     super(props);
 
     this.handleSubmit = this.handleSubmit.bind(this);
-    console.log(props)
+    
   }
 
   handleSubmit(values) {
